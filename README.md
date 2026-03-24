@@ -59,9 +59,9 @@ All users and credentials in this project are fictitious and created for demonst
 
 ## Project Structure
 
-* `/diagrams` – architecture and environment sketches
-* `/docs` – detailed explanations of setup and components
-* `/screenshots` – images from the lab environment
+* `/Diagram` – architecture and environment sketches
+* `/Docs` – detailed explanations of setup and components
+* `/Screenshots` – images from the lab environment
 
 ---
 
