@@ -11,7 +11,7 @@ The lab simulates a small office environment with centralized services, shared s
 * Kali VM – used for controlled testing and enumeration
 * Web/App VM – handles application logic and communication
 * DB-VM – central server hosting MariaDB and shared storage
-* Worker VM 1 – simulates a bank/office user
+* Worker VM 1 (trainnet) – acts both as a network worker and client machine
 * Worker VM 2 – simulates a second client with separate permissions
 
 ## Key Features
