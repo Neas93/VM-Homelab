@@ -1,7 +1,5 @@
 ## Office Environment
 
-This diagram illustrates the simulated office environment within the homelab.
-
 The setup consists of two worker machines connected to a central DB-VM, which provides shared storage via NFS.
 
 Both worker machines access the same shared resources, but operate with different user permissions. This allows simulation of a small office environment where multiple users interact with centralized systems while maintaining separate access rights.
