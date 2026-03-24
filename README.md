@@ -82,7 +82,7 @@ All users and credentials in this project are fictitious and created for demonst
 
 ## Learning Outcome
 
-This project provided hands-on experience with:
+This on-going project provided hands-on experience with:
 
 * multi-VM environments
 * network communication
