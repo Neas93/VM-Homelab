@@ -69,7 +69,7 @@ All users and credentials in this project are fictitious and created for demonst
 
 * [Homelab Overview](Diagrams/homelab-overview.md)
 * [Office Environment](Diagrams/office-environment.md)
-
+* [Architecture Diagram](Diagrams/Homelab_Overview.png)
 ---
 
 ## Documentation
