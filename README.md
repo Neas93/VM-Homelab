@@ -65,7 +65,7 @@ All users and credentials in this project are fictitious and created for demonst
 
 ---
 
-## Diagrams
+## Diagram
 
 * [Homelab Overview](Diagrams/homelab-overview.md)
 
