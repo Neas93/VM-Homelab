@@ -55,10 +55,10 @@ All users and credentials in this project are fictitious and created for demonst
 
 ## Diagrams
 
-* [Homelab Overview](diagrams/homelab-overview.md)
-* [Office Environment](diagrams/office-environment.md)
+* [Homelab Overview](Diagrams/homelab-overview.md)
+* [Office Environment](Diagrams/office-environment.md)
 
 ## Documentation
 
-* [VM Breakdown](docs/vm-breakdown.md)
-* [Network Setup](docs/net)
+* [VM Breakdown](Docs/vm-breakdown.md)
+* [Network Setup](Docs/net)
