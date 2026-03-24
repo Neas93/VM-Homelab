@@ -36,7 +36,7 @@ Both worker machines can access the web application.
 
 - Access is performed through a login interface  
 - Clients do not interact directly with the database  
-- All database communication goes through the Web/App VM  
+- All client-based communication goes through the Web/App VM  
 
 ---
 
