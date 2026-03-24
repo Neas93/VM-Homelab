@@ -77,7 +77,7 @@ All users and credentials in this project are fictitious and created for demonst
 * [VM Breakdown](Docs/vm-breakdown.md)
 * [Network Setup](Docs/network-setup.md)
 * [Access Rights](Docs/access-rights.md)
-
+* [Progress Markdown](Docs/Progression.md)
 ---
 
 ## Learning Outcome
